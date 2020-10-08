@@ -1,7 +1,7 @@
 # daily-dev-cheatsheet
 Aggregation of some cheatsheets I use on a daily basis
 
-## Git
+## Git - https://training.github.com/downloads/github-git-cheat-sheet/
 
 ### Configure tooling
 Configure user information for all local repositories
