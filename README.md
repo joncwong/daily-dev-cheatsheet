@@ -58,11 +58,11 @@ Sometimes it may be a good idea to exclude files from being tracked with Git. Th
 ## Synchronize changes
 Synchronize your local repository with the remote repository on GitHub.com
 
-$ git fetch
+`$ git fetch`
 
 Downloads all history from the remote tracking branches
 
-$ git merge
+`$ git merge`
 
 Combines remote tracking branches into current local branch
 
