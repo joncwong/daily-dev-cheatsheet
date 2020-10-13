@@ -112,7 +112,9 @@ Undoes all commits after [commit], preserving changes locally
 
 Discards all history and changes back to the specified commit
 
-## Vim - https://github.com/rstacruz/cheatsheets/blob/master/vim.md
+## Vim - https://github.com/rstacruz/cheatsheets/blob/master/vim.mde
+
+General Vim Tips: http://zzapper.co.uk/vimtips.html
 
 ### Exiting
 
